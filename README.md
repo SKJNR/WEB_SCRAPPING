@@ -38,3 +38,12 @@ Let's get started by searching a sarees ,price , ratings  and downloading the CS
 >Use overloaded versions of functions to find all occurrences of a searched value. Just use elements instead of element as:<br>
 `images=driver.find_elements_by_xpath("")`
  
+# X Path :
+XPath is an expression path syntax to find an object in DOM. XPath has its own syntax to find the node from the root element either via an absolute path or anywhere in the document using a relative path. Below is the explanation of XPath syntax with an example:
+
+* / : Select node from the root. /html/body/div[1] will find the first div.
+
+* //: Select node from the current node. //form[1] will find the first form element.
+
+* [@attributename='value']: Use the syntax to find the node with the required value of the attribute. <br>
+Another simple way to get the XPath is via inspect element option. Just right click on the desired node and choose copy xpath option as:
