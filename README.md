@@ -49,3 +49,10 @@ XPath is an expression path syntax to find an object in DOM. XPath has its own s
 Another simple way to get the XPath is via inspect element option. Just right click on the desired node and choose copy xpath option as:
 
 * Final step here is downloading images and storing data into csv format .
+
+# References
+
+To install and to know more about Selenium visit this [URL](https://www.selenium.dev/documentation/en/)
+<br>
+For more information about web scrapping with python visit Webscrapping with [selenium](https://www.scrapingbee.com/blog/selenium-python/)
+[Web Scrapping examples with python](https://towardsdatascience.com/web-scraping-using-selenium-python-8a60f4cf40ab)
