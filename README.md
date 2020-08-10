@@ -56,3 +56,4 @@ To install and to know more about Selenium visit this [URL](https://www.selenium
 <br>
 For more information about web scrapping with python visit Webscrapping with [selenium](https://www.scrapingbee.com/blog/selenium-python/)
 [Web Scrapping examples with python](https://towardsdatascience.com/web-scraping-using-selenium-python-8a60f4cf40ab)
+[Web Scrapping using Selenium](https://medium.com/the-andela-way/introduction-to-web-scraping-using-selenium-7ec377a8cf72)
