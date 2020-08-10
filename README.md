@@ -47,3 +47,5 @@ XPath is an expression path syntax to find an object in DOM. XPath has its own s
 
 * [@attributename='value']: Use the syntax to find the node with the required value of the attribute. <br>
 Another simple way to get the XPath is via inspect element option. Just right click on the desired node and choose copy xpath option as:
+
+* Final step here is downloading and storing data into csv format .
